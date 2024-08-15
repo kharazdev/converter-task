@@ -13,7 +13,7 @@ npm run dev
 
 Open [http://localhost:3000/converter](http://localhost:3000/converter) with your browser to see the result.
 
-## Features added
+## Features Completed
 - select currencies from - to
 - allow customer to add value
 - not allowing user to convert from/to same currency
